@@ -1,0 +1,10 @@
+/home/ubuntu/IdeaProjects/Shopping_User_Product_Application/src/main/java/com/niit/productService/exception/UserAlreadyExistsException.java
+/home/ubuntu/IdeaProjects/Shopping_User_Product_Application/src/main/java/com/niit/productService/controller/UserProductController.java
+/home/ubuntu/IdeaProjects/Shopping_User_Product_Application/src/main/java/com/niit/productService/ProductServiceImp.java
+/home/ubuntu/IdeaProjects/Shopping_User_Product_Application/src/main/java/com/niit/productService/service/UserProductService.java
+/home/ubuntu/IdeaProjects/Shopping_User_Product_Application/src/main/java/com/niit/productService/domain/Product.java
+/home/ubuntu/IdeaProjects/Shopping_User_Product_Application/src/main/java/com/niit/productService/exception/ProductNotFoundException.java
+/home/ubuntu/IdeaProjects/Shopping_User_Product_Application/src/main/java/com/niit/productService/repository/UserProductRepository.java
+/home/ubuntu/IdeaProjects/Shopping_User_Product_Application/src/main/java/com/niit/productService/domain/Customer.java
+/home/ubuntu/IdeaProjects/Shopping_User_Product_Application/src/main/java/com/niit/productService/service/UserProductServiceImpl.java
+/home/ubuntu/IdeaProjects/Shopping_User_Product_Application/src/main/java/com/niit/productService/exception/UserNotFoundException.java
